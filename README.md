@@ -135,6 +135,8 @@ Other
 -----
 You are encouraged to exchange ideas with your fellow students. Or, to put it another way: You are required to exchange ideas with your fellow students.
 
+You are allowed to copy the network module from the internet/fellow students. But you still have to understand what is happening, and handle the related  boundryconditions.
+
 **Be gentle with the hardware.** The buttons aren't designed for bashing. Sliding the "elevator" up and down is fine. Make sure no cables are dangling behind and under the workspace.
 
 
