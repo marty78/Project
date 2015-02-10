@@ -65,7 +65,7 @@ You can make these simplifications and still get full score:
 
 Evaluation
 ----------
-Dates to be decided.
+The project is due week 17 and presentations will take place during week 18, schedule: TBD. 
 
  - Completion
    - The elevator system works in accordance to the main specification
