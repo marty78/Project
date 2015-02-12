@@ -112,8 +112,8 @@ extern (C) {
         case LIGHT_COMMAND4:    return lights[3][Light.COMMAND];
         case LIGHT_DOOR_OPEN:   return doorLight;
         case LIGHT_STOP:        return stpBtnLight;
-        case LIGHT_FLOOR_IND1:  return flrIndLight & 0x01;
-        case LIGHT_FLOOR_IND2:  return flrIndLight & 0x02;
+        case LIGHT_FLOOR_IND1:  return flrIndLight & 0x02;
+        case LIGHT_FLOOR_IND2:  return flrIndLight & 0x01;
         case OBSTRUCTION:       return obstrSwch;
         case STOP:              return stopBtn;
         case MOTORDIR:          return ioDir;
