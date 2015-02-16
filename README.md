@@ -144,6 +144,22 @@ Drivers
 -------
 Are found in the directory called [driver](driver)
 
+Objectives
+-------
+
+To be able to evaluate your own progress you shoul set som objectives/milestones. Below we have suggested some objectives, if these do not fit your soloution you shold make your own. You should also set up your goals for the remaining weeks and maybe make the suggested goals more explicit. In the exercises in week 8-10 you should present your solutions for that weeks objective(your own or ours) to the student assistent, if you have not completed the objective you should present your plan and higher absraction design for the objective. 
+
+#####Week 8: Run an elevator
+Get the elevator controller to work through a very simple interface. For example, telling the elevator to go up 3 floors or to floor 5. 
+
+#####Week 9: Network and information security
+Establish a network across multiple computers who are able to communicate with each other, using your choosen topology. Create an interface for the rest of your system. 
+
+#####Week 10: Costfunction
+Create the deciscion system for your elevators.
+
+#####Week 11: Catch-up / Boundryconditions
+Implement the remaining boundryconditions missed in the previous weeks.
 
 Contact
 -------
